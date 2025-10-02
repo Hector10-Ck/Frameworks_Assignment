@@ -5,6 +5,7 @@ This project explores the **CORD-19 metadata dataset** using Python frameworks �
 It demonstrates how to **load**, **analyze**, **visualize**, and **interactively explore** research metadata.
 
 ---
+NOTE: “Download the dataset from (https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) and place it in the project folder before running the code.”
 
 ## 🧠 Objectives
 - Load and explore the dataset  
